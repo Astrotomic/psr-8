@@ -27,3 +27,10 @@ class HugController
     }
 }
 ```
+
+## Credits
+
+- [Tom Witkowski](https://github.com/Gummibeer)
+- [Larry Garfield](https://github.com/Crell) - Editor of original PSR
+- [Tobias van Beek](https://github.com/tvbeek) - Idea for the package
+- [All Contributors](https://github.com/Astrotomic/psr-8/graphs/contributors)
