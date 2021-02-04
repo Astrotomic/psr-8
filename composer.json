@@ -1,0 +1,33 @@
+{
+    "name": "astrotomic/psr-8",
+    "description": "Common interface for hugging libraries",
+    "keywords": [
+        "psr",
+        "psr-8",
+        "hug"
+    ],
+    "homepage": "https://github.com/php-fig/fig-standards/blob/master/proposed/psr-8-hug/psr-8-hug.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Larry Garfield",
+            "email": "larry@garfieldtech.com",
+            "homepage": "https://github.com/Crell",
+            "role": "Editor"
+        },
+        {
+            "name": "Tom Witkowski",
+            "email": "gummibeer@astrotomic.info",
+            "homepage": "https://gummibeer.dev",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Astrotomic\\Hug\\": "src/"
+        }
+    }
+}
