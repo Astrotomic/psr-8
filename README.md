@@ -30,7 +30,8 @@ class HugController
 
 ## Credits
 
-- [Tom Witkowski](https://github.com/Gummibeer)
-- [Larry Garfield](https://github.com/Crell) - Editor of original PSR
-- [Tobias van Beek](https://github.com/tvbeek) - Idea for the package
+- 🧑‍💻 [Tom Witkowski](https://github.com/Gummibeer)
+- 📝 [Larry Garfield](https://github.com/Crell) - Editor of original PSR
+- ‍💌 [Tobias van Beek](https://github.com/tvbeek) - Idea for the package after a [postcard](https://twitter.com/devgummibeer/status/1357429609348874240)
+- 🐶 Yoda - [Reason](https://gummibeer.dev/blog/2021/yoda) for [Tobias](https://github.com/tvbeek) to send a [postcard](https://twitter.com/devgummibeer/status/1357429609348874240)
 - [All Contributors](https://github.com/Astrotomic/psr-8/graphs/contributors)
